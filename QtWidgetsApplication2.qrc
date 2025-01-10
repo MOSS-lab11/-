@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/QtWidgetsApplication2"/>
+    <qresource prefix="/new/prefix1">
+        <file>E:/BaiduNetdiskDownload/ev.mp4</file>
+    </qresource>
+</RCC>
